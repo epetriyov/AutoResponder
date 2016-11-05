@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AutoResponder</string>
+    <string name="hint_response">Enter response text</string>
+    <string name="check_drive_mode">DriveMode</string>
+    <string name="default_response_text">Hello! I am driving, and  i will answer you later.</string>
+    <string name="btnSave">Save</string>
+    <string name="btnChangeResponse">Change response text</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">ok</string>
+</resources>
